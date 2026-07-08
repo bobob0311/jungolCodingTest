@@ -1,4 +1,4 @@
-package ih.dfs;
+package ih.PriorityQueue;
 
 import java.io.BufferedReader;
 import java.io.IOException;
